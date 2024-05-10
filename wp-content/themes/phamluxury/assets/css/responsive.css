@@ -1,0 +1,800 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@media (min-width: 1920px) and (max-width: 2500px){
+	
+}
+
+@media (min-width: 1600px) and (max-width: 1919.98px){
+
+}
+
+@media (min-width: 1366px) and (max-width: 1599.98px){
+    p {font-size: 16px; line-height: 32px;}
+    .banner .carousel-caption {right: 2% !important;top: 27%;}
+    .banner-content h1 {font-size: 65px;line-height: 70px;margin-bottom: 40px;padding-right: 30%;}
+    .banner-content p {font-size: 17px;margin-bottom: 40px;}
+    .banner .carousel-inner .d-block.w-100 {height: 760px;}
+    .custom-header .navbar .navbar-brand img {width: 90%;}
+    .brands-logo img {height: 100px;}
+    .brands-slider .owl-prev {width: 40px;height: 40px;left: -4%;}
+    .brands-slider .owl-next {width: 40px;height: 40px;right: -4%;}
+
+    /*Contact*/
+    .map-location iframe {height: 350px;}
+
+    /*Privacy-policy*/
+    .privacy-content ul li {font-size: 16px;line-height: 28px;}
+}
+
+@media (min-width: 1200px) and (max-width: 1365.98px){
+    .custom-btn {padding: 12px 50px;font-size: 14px;}
+    p {font-size: 15px; line-height: 30px;}
+    .custom-heading h2 {font-size: 32px;}
+	.banner .carousel-caption {right: 2% !important;top: 27%;left: 25px !important;}
+    .banner-content h1 {font-size: 55px;line-height: 65px;margin-bottom: 30px;padding-right: 30%;}
+    .banner-content p {font-size: 16px;margin-bottom: 35px;}
+    .banner .carousel-inner .d-block.w-100 {height: 720px;}
+    .custom-header .navbar .navbar-brand img {width: 90%;}
+    .form-btn .custom-btn {padding: 12px 30px;}
+    .brands-logo img {height: 100px;}
+    .brands-slider .owl-prev {width: 40px;height: 40px;left: 0%;right: 5%;margin: 0 auto;bottom: -75%;top: auto;}
+    .brands-slider .owl-next {width: 40px;height: 40px;left: 5%;right: 0%;margin: 0 auto;bottom: -75%;top: auto;}
+    .brands {padding-bottom: 130px;}
+    .about-content p {font-size: 15px;line-height: 30px;padding: 8px 0 8px;}
+    .about-content ul li {font-size: 15px;line-height: 30px;}
+    .about-content h2 {font-size: 18px;line-height: 34px;}
+    .faq-wrap .accordion-body {font-size: 15px;line-height: 30px;}
+    .car-hire-nav-sliders {margin-top: 40px;}
+    .car-hire-nav-sliders .nav-tabs .nav-link {font-size: 22px;}
+    .car-hire-box .car-hire-box-img img {min-height: 430px;}
+    .car-hire-box .car-hire-box-img .car-hire-box-content h3 {font-size: 20px;}
+    .car-hire-box .car-hire-box-img .car-hire-box-content p {margin-top: 5px;}
+    .car-hire-box .car-hire-box-img .car-hire-box-content p span {font-size: 18px;}
+    .contact-form .form-control {padding: 14px 12px;font-size: 14px;}
+    .contact-detail .contact-detail-wrap h5 {font-size: 16px;}
+    .contact-detail .contact-detail-wrap a {font-size: 16px;line-height: 26px;}
+    .contact-form .form-select {padding: 14px 12px; font-size: 14px;}
+    .contact-info p {font-size: 15px;}
+    .blog-content span {font-size: 14px;}
+    .footer-contact ul li:nth-child(2) {margin-left: 20px;}
+    .footer-contact ul li:nth-child(2) span {left: -20px;}
+    .footer-contact ul li:nth-child(3) {margin-left: 20px;}
+    .footer-contact ul li:nth-child(3) span {left: -20px;}
+    .footer-links .contact-detail {gap: 6px;}
+    .blog .container .row:last-child {margin-top: 50px;}
+
+
+    /*Services*/
+    .service-img-box .service-img-box-text h3 {font-size: 26px;}
+    .service-img-box .service-img-box-text span {font-size: 40px;}
+    .service-inner-section .row:nth-child(2) {margin-top: 40px;}
+
+    /*Service-inner*/
+    .service-inner-details-content p {font-size: 16px;}
+    .service-inner-details .service-inner-details-content-2 p {font-size: 16px;}
+    .service-inner-details .container .row:nth-child(2) {margin-top: 30px;}
+    .service-inner-details-content .custom-heading h2 {margin-bottom: 25px;}
+
+
+    /*Luxury-brands*/
+    .luxury-brands-logo {padding-bottom: 120px;}
+
+
+    /*Blog-inner*/
+    .blog-details-content p {font-size: 16px;line-height: 28px;padding: 15px 0;}
+    .blog-details-content h3 {font-size: 18px;padding: 10px 0;}
+
+
+    /*Contact*/
+    .map-location iframe {height: 350px;}
+    .contact-inner .custom-heading p {margin-top: 20px;}
+
+    /*Faq*/
+    .faq-inner-content .custom-heading {margin-bottom: 50px;}
+    .faq-inner-content .accordion-header .accordion-button.collapsed {font-size: 18px;}
+    .faq-inner-content .accordion-header .accordion-button {font-size: 18px; padding: 15px 0px;}
+    .faq-inner-content .accordion-body {font-size: 16px;line-height: 30px;padding: 20px 0px;}
+    .faq-inner-content .accordion-body ul li {font-size: 16px;line-height: 24px;padding-bottom: 10px;}
+
+
+    /*Privacy-policy*/
+    .privacy-content ul li {font-size: 15px;line-height: 28px;}
+
+    /*Brand-inner*/
+    .brand-inner .view-all-btn {margin-top: 20px;}
+    .brand-inner .container .row:last-child {margin-top: 40px;}
+    .brand-inner .brand-inner-content h4 {font-size: 22px;margin-bottom: 8px;}
+   
+}
+
+@media (min-width: 1024px) and (max-width: 1199.98px){
+    .custom-pad {padding: 80px 0;}
+    p {font-size: 14px; line-height: 28px;}
+    .custom-heading h2 {font-size: 30px;}
+	.custom-btn {padding: 10px 45px;font-size: 13px;}
+	.banner .carousel-caption {right: 2% !important;top: 25%;left: 25px !important;}
+    .banner-content h1 {font-size: 45px;line-height: 60px;margin-bottom: 20px;padding-right: 28%;}
+    .banner-content p {font-size: 15px;margin-bottom: 30px;}
+    .banner .carousel-inner .d-block.w-100 {height: 650px;}
+    .custom-header .navbar .navbar-brand img {width: 90%;}
+    .custom-header .navbar-nav .nav-item a {font-size: 13px;padding-right: 13px;padding-left: 13px;}
+    .custom-header .nav-btn ul li:first-child a {padding: 6px 20px;font-size: 12px;}
+    .form-btn .custom-btn {padding: 13px 30px;}
+    .banner-form .banner-form-wrap .form-control {padding: 12px 10px;}
+    .luxury-car-box .luxury-box-head {font-size: 20px;min-height: 0;}
+    .luxury-car-box p {padding: 6px 0 15px;min-height: 80px;}
+    .luxury-car-box .currency .currency-price p {font-size: 18px;}
+    .luxury-car-box .currency {margin: 10px 0;}
+    .view-all-btn a {font-size: 16px;}
+    .view-all-btn a span {width: 22px;height: 22px;line-height: 21px;font-size: 14px;}
+    .luxury-car-testimonial .owl-next {width: 45px;height: 45px;}
+    .luxury-car-testimonial .owl-prev {width: 45px;height: 45px;}
+    .brands-logo img {height: 100px;}
+    .brands-slider .owl-prev {width: 40px;height: 40px;left: 0%;right: 5%;margin: 0 auto;bottom: -75%;top: auto;}
+    .brands-slider .owl-next {width: 40px;height: 40px;left: 5%;right: 0%;margin: 0 auto;bottom: -75%;top: auto;}
+    .brands {padding-bottom: 130px;}
+    .about-content p {font-size: 14px;line-height: 28px;padding: 8px 0 8px;}
+    .about-content ul li {font-size: 14px;line-height: 28px;}
+    .about-content h2 {font-size: 18px;line-height: 34px;}
+    .about-video iframe {width: 100%;height: 350px;}
+    .faq-wrap {margin-top: 30px;gap: 30px;}
+    .faq-wrap .accordion-body {font-size: 14px;line-height: 28px;}
+    .car-hire-nav-sliders {margin-top: 30px;}
+    .car-hire-nav-sliders .nav-tabs .nav-link {font-size: 20px;}
+    .car-hire-box .car-hire-box-img img {min-height: 410px;}
+    .car-hire-box .car-hire-box-img .car-hire-box-content h3 {font-size: 18px;}
+    .car-hire-box .car-hire-box-img .car-hire-box-content p {margin-top: 5px;}
+    .car-hire-box .car-hire-box-img .car-hire-box-content p span {font-size: 16px;}
+    .contact-form .form-control {padding: 14px 12px;font-size: 14px;}
+    .contact-detail .contact-detail-wrap h5 {font-size: 16px;}
+    .car-hire-nav-sliders .owl-next {width: 45px;height: 45px;}
+    .car-hire-wrap #tab-content {padding-top: 2rem !important;}
+    .contact-form .form-select {padding: 14px 12px; font-size: 14px;}
+    .car-hire-nav-sliders .owl-prev {width: 45px;height: 45px;}
+    .contact-info p {font-size: 14px;}
+    .contact-detail .contact-detail-wrap a {font-size: 16px;line-height: 26px;}
+    .blog-content span {font-size: 14px;}
+    .footer-contact ul li:nth-child(2) {margin-left: 20px;}
+    .footer-contact ul li:nth-child(2) span {left: -20px;}
+    .footer-contact ul li:nth-child(3) {margin-left: 20px;}
+    .footer-contact ul li:nth-child(3) span {left: -20px;}
+    .footer-links .contact-detail {gap: 6px;}
+    .blog-content {padding: 15px 15px 20px 15px;width: 95%;}
+    .blog-content a {font-size: 15px; min-height: 70px;}
+    .blog-content p {font-size: 14px;line-height: 26px;padding: 5px 0 4px;min-height: 220px;}
+    .blog .container .row:last-child {margin-top: 40px;}
+    .footer-head {font-size: 18px;margin-bottom: 18px;}
+    .footer-links ul li {padding-bottom: 10px;}
+    .footer-logo p {margin-top: 20px;padding-right: 20px;}
+    .footer-wrap .container .row:nth-child(2) {margin: 30px 0 10px;padding: 20px 0;}
+    .footer-wrap .footer-24 p {font-size: 14px;}
+    .footer-terms ul li a {font-size: 12px;}
+    .copyright a {font-size: 12px;}
+    .footer-terms ul li {padding-right: 6px;}
+    .footer-social ul li a {font-size: 18px;}
+    .footer-wrap .container .row:nth-child(3) {padding: 0 0 12px;}
+    .inner-banner-content h1 {font-size: 40px;margin-bottom: 15px;}
+
+    /*About*/
+    .about-mission p {font-size: 14px;line-height: 28px;}
+    .about-luxury-car-inner p {font-size: 14px;line-height: 28px;}
+
+    /*Services*/
+    .service-img-box .service-img-box-text h3 {font-size: 24px;}
+    .service-img-box .service-img-box-text span {font-size: 35px;}
+    .service-inner-section .row:nth-child(2) {margin-top: 30px;}
+
+    /*Service-inner*/
+    .service-inner-details-content p {font-size: 14px;}
+    .service-inner-details .service-inner-details-content-2 p {font-size: 14px;}
+    .service-inner-details .container .row:nth-child(2) {margin-top: 30px;}
+    .service-inner-details-content .custom-heading h2 {margin-bottom: 25px;}
+
+
+    /*Luxury-brands*/
+    .luxury-brands-logo {padding-bottom: 120px;}
+    .price-filter .form-select {  font-size: 14px;}
+
+    .luxury-car-box .icon-box li .box-icon img {height: 50px;}
+    .car-deals .luxury-car-box .icon-box li {padding: 10px 15px 20px;}
+    .car-deals .luxury-car-box .currency .currency-price p {font-size: 16px;}
+    .car-deals .luxury-car-box .currency .currency-detail h6 {font-size: 14px;}
+    .car-deals .luxury-car-box-btn .custom-btn {padding: 14px 25px;}
+    .car-deals .luxury-car-box .currency .currency-detail .form-select {font-size: 14px;}
+    .car-deals .luxury-car-box .luxury-box-head {font-size: 17px;min-height: 55px;}
+    .car-deals .luxury-car-box-img img {min-height: 230px;}
+    .car-deals .luxury-car-box .currency .currency-detail {gap: 5px;}
+
+
+    /*Car-deals-inner*/
+    .car-deals-top-content ul li {font-size: 15px;padding-bottom: 15px;}
+    .market-rate .market-currency h6 {font-size: 14px;}
+    .market-rate span {font-size: 12px;}
+    .car-deals-price p {font-size: 14px;}
+    .car-deals-price b {font-size: 17px;}
+    .car-deals-price::before {height: 60px;}
+    .car-overview-tabs .nav.nav-tabs .nav-item a {font-size: 15px;}
+    .car-overview-tabs {margin-top: 20px;}
+    .car-overview {margin-top: 30px;}
+    .car-overview-tabs #tab-content ul li {padding-bottom: 12px;font-size: 14px;margin-left: 20px;}
+    .car-overview-tabs #tab-content {padding: 20px 20px !important;}
+    .car-overview-tabs #tab-content ul li::after {width: 8px;height: 8px;left: -20px;top: 8px;}
+    .car-deals-inner-gallery .outer .owl-nav .owl-prev i {font-size: 50px;}
+    .car-deals-inner-gallery .outer .owl-nav .owl-next i {font-size: 50px;}
+    .car-deals-inner-gallery .outer .owl-nav .owl-prev {top: 48%;left: 20px;}
+    .car-deals-inner-gallery .outer .owl-nav .owl-next {top: 48%;right: 20px;}
+
+
+    /*Blog-inner*/
+    .blog-details-content p {font-size: 16px;line-height: 28px;padding: 15px 0;}
+    .blog-details-content h3 {font-size: 18px;padding: 10px 0;}
+
+
+    /*Contact*/
+    .map-location iframe {height: 350px;}
+    .contact-inner .custom-heading p {margin-top: 20px;}
+    .contact-inner-info {padding: 0 0px;}
+    .contact-inner-social ul li a {font-size: 18px !important;}
+    .contact-inner-form form .form-control {padding: 12px 12px;}
+
+
+    /*Faq*/
+    .faq-inner-content .custom-heading {margin-bottom: 50px;}
+    .faq-inner-content .accordion-header .accordion-button.collapsed {font-size: 18px;}
+    .faq-inner-content .accordion-header .accordion-button {font-size: 18px; padding: 15px 0px;}
+    .faq-inner-content .accordion-body {font-size: 16px;line-height: 30px;padding: 20px 0px;}
+    .faq-inner-content .accordion-body ul li {font-size: 16px;line-height: 24px;padding-bottom: 10px;}
+
+
+    /*T&c*/
+    .booking-tc-content p {padding-bottom: 25px;}
+
+    /*Privacy-policy*/
+    .privacy-content ul li {font-size: 14px;line-height: 26px;}
+    .privacy-content h4 {font-size: 20px;}
+
+
+    /*Brand-inner*/
+    .brand-inner .view-all-btn {margin-top: 20px;}
+    .brand-inner .container .row:last-child {margin-top: 40px;}
+    .brand-inner .brand-inner-content h4 {font-size: 22px;margin-bottom: 8px;}
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+	.custom-pad {padding: 80px 0;}
+    p {font-size: 14px; line-height: 28px;}
+    .custom-heading h2 {font-size: 28px;}
+	.custom-btn {padding: 10px 45px;font-size: 13px;}
+	.banner .carousel-caption {right: 2% !important;top: 25%;left: 25px !important;}
+    .banner-content h1 {font-size: 45px;line-height: 60px;margin-bottom: 20px;padding-right: 28%;}
+    .banner-content p {font-size: 15px;margin-bottom: 30px;}
+    .banner .carousel-inner .d-block.w-100 {height: 650px;}
+    .custom-header .navbar .navbar-brand img {width: 90%;}
+    .custom-header .navbar-nav .nav-item a {font-size: 13px;padding-right: 13px;padding-left: 13px;}
+    .custom-header .nav-btn ul li:first-child a {padding: 6px 20px;font-size: 12px;}
+    .form-btn .custom-btn {padding: 13px 30px;}
+    .banner-form .banner-form-wrap .form-control {padding: 12px 10px;}
+    .luxury-car-box .luxury-box-head {font-size: 20px;min-height: 0;}
+    .luxury-car-box p {padding: 6px 0 15px;min-height: 80px;}
+    .luxury-car-box .currency .currency-price p {font-size: 18px;}
+    .luxury-car-box .currency {margin: 10px 0;}
+    .view-all-btn a {font-size: 16px;}
+    .view-all-btn a span {width: 22px;height: 22px;line-height: 21px;font-size: 14px;}
+    .luxury-car-testimonial .owl-next {width: 45px;height: 45px;}
+    .luxury-car-testimonial .owl-prev {width: 45px;height: 45px;}
+    .luxury-car-testimonial .owl-nav {margin-top: 30px;}
+    .brands-logo img {height: 100px;}
+    .brands-slider .owl-prev {width: 40px;height: 40px;left: 0%;right: 5%;margin: 0 auto;bottom: -75%;top: auto;}
+    .brands-slider .owl-next {width: 40px;height: 40px;left: 5%;right: 0%;margin: 0 auto;bottom: -75%;top: auto;}
+    .brands {padding-bottom: 130px;}
+    .about-content p {font-size: 14px;line-height: 28px;padding: 8px 0 8px;}
+    .about-content ul li {font-size: 14px;line-height: 28px;}
+    .about-content h2 {font-size: 18px;line-height: 34px;}
+    .about-video iframe {width: 100%;height: 350px;}
+    .faq-wrap {margin-top: 30px;gap: 30px;}
+    .faq-wrap .accordion-body {font-size: 14px;line-height: 28px;}
+    .car-hire-nav-sliders {margin-top: 30px;}
+    .car-hire-nav-sliders .nav-tabs .nav-link {font-size: 20px;}
+    .car-hire-box .car-hire-box-img img {min-height: 410px;}
+    .car-hire-box .car-hire-box-img .car-hire-box-content h3 {font-size: 18px;}
+    .car-hire-box .car-hire-box-img .car-hire-box-content p {margin-top: 5px;}
+    .car-hire-box .car-hire-box-img .car-hire-box-content p span {font-size: 16px;}
+    .contact-form .form-control {padding: 14px 12px;font-size: 14px;}
+    .contact-detail .contact-detail-wrap h5 {font-size: 16px;}
+    .car-hire-nav-sliders .owl-next {width: 45px;height: 45px;}
+    .car-hire-wrap #tab-content {padding-top: 2rem !important;}
+    .contact-form .form-select {padding: 14px 12px; font-size: 14px;}
+    .car-hire-nav-sliders .owl-prev {width: 45px;height: 45px;}
+    .contact-info p {font-size: 14px;}
+    .contact-detail .contact-detail-wrap a {font-size: 16px;line-height: 26px;}
+    .blog-content span {font-size: 14px;}
+    .footer-contact ul li:nth-child(2) {margin-left: 20px;}
+    .footer-contact ul li:nth-child(2) span {left: -20px;}
+    .footer-contact ul li:nth-child(3) {margin-left: 20px;}
+    .footer-contact ul li:nth-child(3) span {left: -20px;}
+    .footer-links .contact-detail {gap: 6px;}
+    .blog-content {padding: 15px 15px 20px 15px;width: 95%;}
+    .blog-content a {font-size: 15px; min-height: 70px;}
+    .blog-content p {font-size: 14px;line-height: 26px;padding: 5px 0 4px;min-height: 220px;}
+    .blog .container .row:last-child {margin-top: 40px;}
+    .footer-head {font-size: 18px;margin-bottom: 18px;}
+    .footer-links ul li {padding-bottom: 10px;}
+    .footer-logo p {margin-top: 20px;padding-right: 20px;}
+    .footer-wrap .container .row:nth-child(2) {margin: 30px 0 10px;padding: 20px 0;}
+    .footer-wrap .footer-24 p {font-size: 14px;}
+    .footer-terms ul li a {font-size: 12px;}
+    .copyright a {font-size: 12px;}
+    .footer-terms ul li {padding-right: 6px;}
+    .footer-social ul li a {font-size: 18px;}
+    .footer-wrap .container .row:nth-child(3) {padding: 0 0 12px;}
+    .footer-links ul li a {font-size: 13px;}
+    .footer-links p {font-size: 13px;}
+    .footer-links .contact-detail .contact-detail-wrap a {font-size: 13px;}
+    .inner-banner-content h1 {font-size: 40px;margin-bottom: 15px;}
+
+
+    /*About*/
+    .about-mission p {font-size: 14px;line-height: 28px;}
+    .about-luxury-car-inner p {font-size: 14px;line-height: 28px;}
+
+
+    /*Services*/
+    .service-img-box .service-img-box-text h3 {font-size: 24px;}
+    .service-img-box .service-img-box-text span {font-size: 35px;}
+    .service-inner-section .row:nth-child(2) {margin-top: 30px;}
+
+    /*Service-inner*/
+    .service-inner-details-content p {font-size: 14px;}
+    .service-inner-details .service-inner-details-content-2 p {font-size: 14px;}
+    .service-inner-details .container .row:nth-child(2) {margin-top: 30px;}
+    .service-inner-details-content .custom-heading h2 {margin-bottom: 25px;}
+
+    /*Luxury-brands*/
+    .luxury-brands-logo {padding-bottom: 120px;}
+    .price-filter .form-select {font-size: 14px;}
+    .luxury-car-box .icon-box li .box-icon img {height: 50px;}
+    .car-deals .luxury-car-box .icon-box li {padding: 10px 15px 20px;}
+    .car-deals .luxury-car-box .currency .currency-price p {font-size: 16px;}
+    .car-deals .luxury-car-box .currency .currency-detail h6 {font-size: 14px;}
+    .car-deals .luxury-car-box-btn .custom-btn {padding: 12px 20px;}
+    .car-deals .luxury-car-box .currency .currency-detail .form-select {font-size: 14px;}
+    .car-deals .luxury-car-box .luxury-box-head {font-size: 17px;min-height: 55px;}
+    .car-deals .luxury-car-box-img img {min-height: 230px;}
+    .car-deals .luxury-car-box .currency .currency-detail {gap: 5px;}
+
+
+    /*Car-deals-inner*/
+    .car-deals-top-content ul li {font-size: 15px;padding-bottom: 15px;}
+    .market-rate .market-currency h6 {font-size: 14px;}
+    .market-rate span {font-size: 12px;}
+    .car-deals-price p {font-size: 14px;}
+    .car-deals-price b {font-size: 17px;}
+    .car-deals-price::before {height: 60px;}
+    .car-overview-tabs .nav.nav-tabs .nav-item a {font-size: 15px;}
+    .car-overview-tabs {margin-top: 20px;}
+    .car-overview {margin-top: 30px;}
+    .car-overview-tabs #tab-content ul li {padding-bottom: 12px;font-size: 14px;margin-left: 20px;}
+    .car-overview-tabs #tab-content {padding: 20px 20px !important;}
+    .car-overview-tabs #tab-content ul li::after {width: 8px;height: 8px;left: -20px;top: 8px;}
+    .car-deals-inner-gallery .outer .owl-nav .owl-prev i {font-size: 50px;}
+    .car-deals-inner-gallery .outer .owl-nav .owl-next i {font-size: 50px;}
+    .car-deals-inner-gallery .outer .owl-nav .owl-prev {top: 48%;left: 20px;}
+    .car-deals-inner-gallery .outer .owl-nav .owl-next {top: 48%;right: 20px;}
+
+    /*Blog-inner*/
+    .blog-details-content p {font-size: 16px;line-height: 28px;padding: 15px 0;}
+    .blog-details-content h3 {font-size: 18px;padding: 10px 0;}
+
+
+    /*Contact*/
+    .map-location iframe {height: 300px;}
+    .contact-inner .custom-heading p {margin-top: 20px;}
+    .contact-inner-info {padding: 0 0px;}
+    .contact-inner-social ul li a {font-size: 18px !important;}
+    .contact-inner-form form .form-control {padding: 12px 12px;}
+
+
+    /*Faq*/
+    .faq-inner-content .custom-heading {margin-bottom: 40px;}
+    .faq-inner-content .accordion-header .accordion-button.collapsed {font-size: 18px;}
+    .faq-inner-content .accordion-header .accordion-button {font-size: 18px; padding: 15px 0px;}
+    .faq-inner-content .accordion-body {font-size: 16px;line-height: 30px;padding: 20px 0px;}
+    .faq-inner-content .accordion-body ul li {font-size: 16px;line-height: 24px;padding-bottom: 10px;}
+
+
+    /*T&c*/
+    .booking-tc-content p {padding-bottom: 25px;}
+
+
+    /*Privacy-policy*/
+    .privacy-content ul li {font-size: 14px;line-height: 26px;}
+    .privacy-content h4 {font-size: 20px;}
+
+
+    /*Brand-inner*/
+    .brand-inner .view-all-btn {margin-top: 20px;}
+    .brand-inner .container .row:last-child {margin-top: 40px;}
+    .brand-inner .brand-inner-content h4 {font-size: 20px;margin-bottom: 8px;}
+}
+
+@media only screen and (max-width: 991.98px) {    
+.navbar-toggler { float: left;margin: 0; height: 45px; width: 45px; border-radius: 0;z-index: 1}
+.navbar-toggler .icon-bar { width: 24px; background: #fff;transition: .5s ease;}
+.navbar-toggler.collapsed .icon-bar:nth-child(2){transform: rotate(0) translateY(0) translateX(0);}
+.navbar-toggler.collapsed .icon-bar:nth-child(3){opacity:1}
+.navbar-toggler.collapsed .icon-bar:nth-child(4){transform:rotate(0) translateY(0) translateX(0);}
+.navbar-toggler .icon-bar:nth-child(2){transform: rotate(-45deg) translateY(5px) translateX(-5px);}
+.navbar-toggler .icon-bar:nth-child(3){opacity: 0}
+.navbar-toggler .icon-bar:nth-child(4){transform:rotate(45deg) translateY(-4px) translateX(-3px);}
+.navbar-header {display: block;}
+
+    .custom-pad {padding: 60px 0;}
+    p {font-size: 14px; line-height: 26px;}
+    .custom-btn {padding: 10px 45px;font-size: 13px;}
+    .custom-heading h2 {font-size: 28px;}
+    .banner .carousel-caption {right: 2% !important;top: 31%;left: 25px !important;}
+    .banner-content h1 {font-size: 40px;line-height: 55px; margin-bottom: 10px;padding-right: 15%;}
+    .banner-content p {font-size: 14px;margin-bottom: 20px;}
+    .banner .carousel-inner .d-block.w-100 {height: 580px;}
+    .custom-header .navbar .navbar-brand img {width: 100%;}
+    .custom-header .navbar-nav .nav-item a {font-size: 15px;padding-right: 0px;padding-left: 0;border-bottom: 1px dashed var(--c-white);text-align: center;}
+    .custom-header .navbar-nav .nav-item {margin: 0;}
+    .custom-header .nav-btn ul li:first-child a {padding: 6px 20px;font-size: 12px;}
+    .custom-header .nav-btn {display: none;}
+    .custom-header .inside-menu {display: block !important;}
+    .custom-header .navbar-toggler.collapsed {background-color: var(--c-secondary);border-radius: 5px;}
+    .custom-header .navbar-toggler {background-color: var(--c-secondary);border-radius: 5px;}
+    .custom-header .navbar-collapse {background-color: var(--c-para);padding: 10px 10px;border-radius: 5px;}
+    .custom-header .inside-menu ul {margin-top: 20px; justify-content: center;}
+    .custom-header .inside-menu ul li:first-child {display: none;}
+    .custom-header .inside-menu ul li {margin: 0;}
+    .custom-header .navbar .navbar-brand {width: 25%;}
+    .banner-form .banner-form-wrap .form-control {padding: 12px 10px;}
+    .banner-form {margin-top: 0;}
+    .form-btn .custom-btn {margin-top: 15px;}
+    .luxury-car-box .luxury-box-head {font-size: 18px;min-height: 60px;}
+    .luxury-car-box p {padding: 6px 0 15px;min-height: 110px;}
+    .luxury-car-box .currency .currency-price p {font-size: 18px;}
+    .luxury-car-box .currency {margin: 16px 0;}
+    .view-all-btn a {font-size: 16px;}
+    .view-all-btn a span {width: 22px;height: 22px;line-height: 21px;font-size: 14px;}
+    .luxury-car-testimonial .owl-next {width: 45px;height: 45px;margin-left: 10px;}
+    .luxury-car-testimonial .owl-prev {width: 45px;height: 45px;}
+    .luxury-car-deals-wrap .custom-heading {margin-bottom: 30px;}
+    .luxury-car-testimonial .owl-nav {margin-top: 30px;}
+    .luxury-car-box .icon-box li {padding: 10px 20px 20px;}
+    .brands-logo img {height: 100px;}
+    .brands-slider .owl-prev {width: 40px;height: 40px;left: 0%;right: 8%;margin: 0 auto;bottom: -75%;top: auto;}
+    .brands-slider .owl-next {width: 40px;height: 40px;left: 8%;right: 0%;margin: 0 auto;bottom: -75%;top: auto;}
+    .brands {padding-bottom: 120px !important;}
+    .about-content p {font-size: 14px;line-height: 28px;padding: 8px 0 8px;}
+    .about-content ul li {font-size: 14px;line-height: 26px;}
+    .about-content h2 {font-size: 18px;line-height: 34px;}
+    .about-video iframe {width: 100%;height: 350px;}
+    .about-content {height: 350px;margin-top: 30px;}
+    .faq-wrap {margin-top: 30px;gap: 30px;}
+    .faq-wrap .accordion-body {font-size: 14px;line-height: 26px;}
+    .faq-wrap .accordion-header .accordion-button.collapsed {font-size: 14px;line-height: 26px;padding: 15px 10px;}
+    .faq-wrap .accordion-header .accordion-button {font-size: 14px;line-height: 26px;padding: 15px 10px;}
+    .car-hire-nav-sliders {margin-top: 30px;}
+    .car-hire-nav-sliders .nav-tabs .nav-link {font-size: 20px;padding-bottom: 0;}
+    .car-hire-box .car-hire-box-img img {min-height: 410px;}
+    .car-hire-box .car-hire-box-img .car-hire-box-content h3 {font-size: 18px;}
+    .car-hire-box .car-hire-box-img .car-hire-box-content p {margin-top: 5px;}
+    .car-hire-box .car-hire-box-img .car-hire-box-content p span {font-size: 16px;}
+    .contact-form .form-control {padding: 14px 12px;font-size: 14px;}
+    .contact-detail .contact-detail-wrap h5 {font-size: 16px;}
+    .car-hire-nav-sliders .owl-next {width: 45px;height: 45px;margin-left: 10px;}
+    .car-hire-wrap #tab-content {padding-top: 2rem !important;}
+    .contact-form .form-select {padding: 14px 12px; font-size: 14px;}
+    .car-hire-nav-sliders .owl-prev {width: 45px;height: 45px;}
+    .contact-info p {font-size: 14px;}
+    .contact-detail .contact-detail-wrap a {font-size: 15px;line-height: 26px;}
+    .contact-form {margin-top: 40px;}
+    .car-hire-nav-sliders .owl-nav {margin-top: 30px;}
+    .contact-form .form-btn .btn.btn-primary.custom-btn {width: 100%;}
+    .contact .custom-heading h2 {margin-bottom: 15px;}
+    .blog-content span {font-size: 14px;}
+    .footer-contact ul li:nth-child(2) {margin-left: 20px;}
+    .footer-contact ul li:nth-child(2) span {left: -20px;}
+    .footer-contact ul li:nth-child(3) {margin-left: 20px;}
+    .footer-contact ul li:nth-child(3) span {left: -20px;}
+    .footer-links .contact-detail {gap: 6px;}
+    .blog-content {padding: 15px 15px 20px 15px;width: 95%;}
+    .blog-content a {font-size: 15px; min-height: 45px;}
+    .blog-content p {font-size: 14px;line-height: 26px;padding: 5px 0 4px;min-height: 120px;}
+    .blog .container .row:last-child {margin-top: 10px;}
+    .footer-head {font-size: 18px;margin-bottom: 18px;}
+    .footer-links ul li {padding-bottom: 10px;}
+    .footer-logo p {margin-top: 20px;padding-right: 0px;}
+    .footer-wrap .container .row:nth-child(2) {margin: 30px 0 10px;padding: 20px 0;}
+    .footer-wrap .footer-24 p {font-size: 14px;}
+    .footer-terms ul li a {font-size: 12px;}
+    .copyright a {font-size: 12px;}
+    .footer-terms ul li {padding-right: 6px;}
+    .footer-social ul li a {font-size: 18px;}
+    .footer-wrap .container .row:nth-child(3) {padding: 0 0 12px;}
+    .blog-box {margin-top: 20px;}
+    .blog-img img {min-height: 280px;}
+    .footer-logo a img {width: 35%;}
+    .footer-logo {text-align: center;margin-bottom: 30px;}
+    .footer-wrap {padding: 60px 0 0;}
+    .footer-contact {margin-top: 30px;}
+    .footer-24 {text-align: center;}
+    .footer-catalogue-btn {text-align: center;margin: 20px 0;}
+    .footer-payment {text-align: center;}
+    .footer-payment ul {margin-top: 10px;}
+    .footer-terms ul {justify-content: center;}
+    .footer-social ul {justify-content: center;}
+    .copyright {margin: 6px 0;}
+    .inner-banner-content h1 {font-size: 34px;  margin-bottom: 5px;}
+    .inner-breadcam ul li {font-size: 16px;}
+    .inner-breadcam ul li a {font-size: 16px;}
+    .custom-inner-banner {padding: 160px 10px 70px;}
+
+    .custom-header .navbar-nav li .sub-menu li a {border-bottom: none;font-size: 14px;}
+    .custom-header .navbar-nav li .sub-menu {z-index: 5;top: 105px;}
+
+    /*About*/
+    .about-img {margin-top: 30px;}
+    .about-inner-content .container .row:nth-child(2) {margin: 30px 0;}
+    .about-mission p {font-size: 14px;line-height: 28px;padding-right: 0;}
+    .about-luxury-car-inner p {font-size: 14px;line-height: 28px;padding-right: 0;}
+
+
+    /*Services*/
+    .service-img-box .service-img-box-text h3 {font-size: 20px;}
+    .service-img-box .service-img-box-text span {font-size: 26px;padding-top: 40px;}
+    .service-inner-section .row:nth-child(2) {margin-top: 20px;}
+
+    /*Service-inner*/
+    .service-inner-details-content p {font-size: 14px;}
+    .service-inner-details .service-inner-details-content-2 p {font-size: 14px;}
+    .service-inner-details .container .row:nth-child(2) {margin-top: 30px;}
+    .service-inner-details-content .custom-heading h2 {margin-bottom: 15px;}
+    .service-inner-details-img {margin-top: 30px;}
+    .service-inner-details-content-2 {text-align: center;}
+
+
+    /*Luxury-brands*/
+    .luxury-brands-logo {padding-bottom: 120px !important;}
+    .price-filter .form-select {font-size: 14px;}
+    .car-deals .luxury-car-box-img img {min-height: 250px;}
+
+
+    /*Car-deals-inner*/
+    .car-deals-top-content ul li {font-size: 15px;padding-bottom: 15px;}
+    .market-rate .market-currency h6 {font-size: 14px;}
+    .market-rate span {font-size: 12px;}
+    .car-deals-price p {font-size: 14px;}
+    .car-deals-price b {font-size: 17px;}
+    .car-deals-price::before {height: 60px;}
+    .car-overview-tabs .nav.nav-tabs .nav-item a {font-size: 15px;}
+    .car-overview-tabs {margin-top: 20px;}
+    .car-overview {margin-top: 30px;}
+    .car-overview-tabs #tab-content ul li {padding-bottom: 12px;font-size: 14px;margin-left: 20px;}
+    .car-overview-tabs #tab-content {padding: 20px 20px !important;}
+    .car-overview-tabs #tab-content ul li::after {width: 8px;height: 8px;left: -20px;top: 8px;}
+    .car-deals-inner-gallery .outer .owl-nav .owl-prev i {font-size: 50px;}
+    .car-deals-inner-gallery .outer .owl-nav .owl-next i {font-size: 50px;}
+    .car-deals-inner-gallery .outer .owl-nav .owl-prev {top: 48%;left: 20px;}
+    .car-deals-inner-gallery .outer .owl-nav .owl-next {top: 48%;right: 20px;}
+    .car-deals-inner-content {position: unset;margin-top: 20px;}
+
+
+    /*Blog*/
+    .blog-inner .blog-content p {min-height: 140px;}
+    .blog-inner .blog-box {margin-bottom: 0px;}
+    .blog-inner .page-count {margin-top: 30px;}
+
+
+    /*Blog-inner*/
+    .blog-details-content p {font-size: 14px;line-height: 26px;padding: 10px 0;}
+    .blog-details-content h3 {font-size: 16px;padding: 10px 0;}
+    .blog-details-content span {font-size: 15px;margin-top: 20px;}
+    .blog-details-content .custom-heading h2 {font-size: 24px;}
+
+
+    /*Contact*/
+    .map-location iframe {height: 250px;}
+    .contact-inner .custom-heading p {margin-top: 12px;}
+    .contact-inner-info {padding: 0 0px; margin-top: 30px;}
+    .contact-inner-social ul li a {font-size: 18px !important;}
+    .contact-inner-form form .form-control {padding: 12px 12px;}
+    .working-hours {margin-top: 30px;}
+    .contact-inner .container .row:last-child {margin-top: 30px;}
+    .contact-inner-head {font-size: 20px;margin-bottom: 15px;}
+    .contact-inner-social ul li {padding: 0 20px 0 0px;}
+
+    /*Faq*/
+    .faq-inner-content .custom-heading {margin-bottom: 25px;}
+    .faq-inner-content .accordion-header .accordion-button.collapsed {font-size: 16px;line-height: 28px;}
+    .faq-inner-content .accordion-header .accordion-button {font-size: 16px; padding: 10px 0px;line-height: 28px;}
+    .faq-inner-content .accordion-body {font-size: 14px;line-height: 26px;padding: 15px 0px;}
+    .faq-inner-content .accordion-body ul li {font-size: 14px;line-height: 22px;padding-bottom: 10px;}
+    .faq-inner-content .accordion-button::after {font-size: 22px;}
+    .faq-inner-content .accordion-button:not(.collapsed)::after {font-size: 24px;}
+
+    /*T&c*/
+    .booking-tc-content p {padding-bottom: 20px;}
+
+
+    /*Privacy-policy*/
+    .privacy-content ul li {font-size: 14px;line-height: 26px;}
+    .privacy-content h4 {font-size: 20px;}
+
+    /*Brand-inner*/
+    .brand-inner .view-all-btn {margin-top: 20px;}
+    .brand-inner .container .row:last-child {margin-top: 30px;}
+    .brand-inner .brand-inner-content h4 {font-size: 20px;margin-bottom: 8px;}
+}
+
+
+@media (max-width: 767.98px){
+    .custom-pad {padding: 40px 0;}
+    .custom-heading h2 {font-size: 22px;}
+    .banner .d-none {display: block !important;}
+    .banner-content h1 {font-size: 35px;line-height: 45px;padding-right: 0;text-align: center;margin-bottom: 15px;}
+    .banner-content p {font-size: 14px;text-align: center;}
+    .banner-content .banner-btn {text-align: center;}
+    .banner .carousel-inner .d-block.w-100 {height: 520px;}
+    .banner .carousel-caption {right: 2% !important;top: 28%;left: 2% !important;}
+    .custom-header .navbar .navbar-brand {width: 32%;}
+    .luxury-car-box .luxury-box-head {font-size: 18px;min-height: auto;}
+    .luxury-car-box p {padding: 6px 0 15px;min-height: auto;}
+    .brands-logo img {width: 70% !important;}
+    .brands-slider .owl-prev {width: 40px;height: 40px;left: 0%;right: 10%;margin: 0 auto;bottom: -65%;top: auto;}
+    .brands-slider .owl-next {width: 40px;height: 40px;left: 10%;right: 0%;margin: 0 auto;bottom: -65%;top: auto;}
+    .brands {padding-bottom: 110px !important;}
+    .faq-wrap {column-count: 1;}
+    .car-hire-box .car-hire-box-img .car-hire-box-content h3 {font-size: 16px;line-height: 26px;}
+    .car-hire-box .car-hire-box-content a {font-size: 24px;}
+    .car-hire-box .car-hire-box-img .car-hire-box-content {bottom: 10px;}
+    .car-hire-box .car-hire-box-img img { min-height: 340px;}
+    .car-hire-nav-sliders {margin-top: 20px;}
+    .car-hire-wrap #tab-content {padding-top: 1rem !important;}
+    .car-hire-nav-sliders .nav-tabs .nav-link {font-size: 18px;}
+    .blog-img img {min-height: auto;}
+    .blog-content a {font-size: 16px;min-height: auto;}
+    .blog-content p {padding: 10px 0 10px;min-height: auto;}
+    .footer-wrap {padding: 40px 0 0;}
+    .footer-logo a img {width: 40%;}
+    .inner-banner-content h1 {font-size: 30px;}
+    .custom-inner-banner {padding: 150px 10px 70px;}
+    .custom-header .navbar-nav li .sub-menu {padding: 20px;width: 100%;}
+
+
+    /*About*/
+    .about-mission {text-align: center;}
+    .about-mission .custom-heading h2 {text-align: center;margin-bottom: 5px;}
+    .about-luxury-car-inner {text-align: center;}
+    .about-luxury-car-inner .custom-heading h2 {text-align: center;margin-bottom: 5px;}
+
+
+    /*Services*/
+    .service-img-box .service-img-box-text h3 {font-size: 28px;}
+    .service-img-box .service-img-box-text span {font-size: 35px;padding-top: 60px;}
+
+    /*Service-inner*/
+    .service-inner-details-content {text-align: center;}
+    .service-inner-details-content .custom-heading h2 {text-align: center;}
+
+    /*Luxury-brands*/
+    .car-deals .luxury-car-box-img img {min-height: auto;}
+    .price-filter {top: -10px;}
+
+
+    /*Blog*/
+    .blog-inner .blog-content p {min-height: auto;}
+
+
+    /*Blog-inner*/
+    .blog-details-content .custom-heading h2 {font-size: 20px;}
+
+    /*Contact Inner*/
+    .contact-inner-head {font-size: 18px;}
+
+
+    /*Faq*/
+    .faq-inner-content .accordion-header .accordion-button.collapsed {font-size: 15px;line-height: 28px;}
+    .faq-inner-content .accordion-header .accordion-button {font-size: 15px; padding: 10px 0px;line-height: 28px;}
+
+
+    /*T&c*/
+    .booking-tc-content p {text-align: center;}
+
+    /*Privacy-policy*/
+    .privacy-content p {padding: 8px 0 15px;}
+    .privacy-content h4 {font-size: 18px;}
+    .privacy-content ul {padding: 0 0 10px;}
+
+
+    /*Brand-inner*/
+    .brand-inner .view-all-btn {margin-top: 10px;}
+    .brand-inner .brand-inner-content h4 {font-size: 18px;margin-bottom: 8px;line-height: 26px;}
+    .brand-inner-content p {padding-bottom: 15px;}
+}
+
+@media (max-width: 575.98px){
+    .custom-header .navbar .navbar-brand {width: 45%;}
+    .banner-content h1 {font-size: 28px;line-height: 38px;margin-bottom: 10px;}
+    .banner-content .banner-btn a:last-child {margin-left: 0;margin-top: 15px;}
+    .banner .carousel-caption {top: 23%;}
+    .banner-form .banner-form-wrap {padding: 20px 15px 10px;}
+    .luxury-car-box-btn .custom-btn {padding: 14px 19px;}
+    .luxury-car-box .icon-box li {padding: 5px 10px 20px;}
+    .luxury-car-box .icon-box li .box-icon img {height: 60px;}
+    .luxury-car-deals-wrap .custom-heading {margin-bottom: 20px;}
+    .about-content h2 {font-size: 18px;line-height: 30px;}
+    .about-content {height: 300px;margin-top: 20px;}
+    .about-video iframe {height: 300px;}
+    .brands-slider .owl-prev {width: 40px;height: 40px;left: 0%;right: 15%;margin: 0 auto;bottom: -65%;top: auto;}
+    .brands-slider .owl-next {width: 40px;height: 40px;left: 15%;right: 0%;margin: 0 auto;bottom: -65%;top: auto;}
+    .brands {padding-bottom: 100px !important;}
+    .contact-detail .contact-detail-wrap a {font-size: 14px;}
+    .footer-links {margin-bottom: 20px;}
+    .footer-logo a img {width: 60%;}
+    .footer-contact {margin-top: 0px;}
+    .footer-wrap .container .row:nth-child(2) {margin: 10px 0 10px;}
+    .inner-banner-content h1 {font-size: 24px;}
+    .inner-breadcam ul li a {font-size: 11px;}
+    .inner-breadcam ul li {font-size: 11px;}
+    .custom-header .navbar-nav li .sub-menu li {width: 100%;}
+
+
+    /*About*/
+    .about-img img:last-child {margin-top: 20px;}
+    .about-img {display: block;}
+    .about-inner-content .container .row:first-child .about-inner-btn .custom-btn {width: 49% !important;}
+
+
+    /*Services*/
+    .service-img-box .service-img-box-text h3 {font-size: 20px;}
+    .service-img-box .service-img-box-text span {font-size: 20px;padding-top: 30px;}
+    .service-img-box {margin-top: 15px;}
+
+    /*Service-Inner*/
+    .service-inner-details-content .custom-heading h2 {margin-bottom: 10px;}
+
+    /*Luxury-brands*/
+    .car-deals .luxury-car-box-btn .custom-btn {padding: 12px 28px;}
+    .car-deals .luxury-car-box {margin-bottom: 20px;}
+    .luxury-brands-logo-head .custom-heading h2 {text-align: left;}
+    .price-filter .form-select {font-size: 12px;padding: 8px 35px 8px 15px;}
+    .price-filter {top: -5px;}
+    .car-deals .luxury-car-box .currency .currency-detail {gap: 6px;}
+    .luxury-brands-logo {padding-bottom: 100px !important;}
+
+
+    /*car-deals-inner*/
+    .car-overview-tabs #tab-content {padding: 15px 10px !important;}
+    .car-deals-top-content {padding: 15px 10px;}
+    .market-rate {padding: 15px 10px;}
+    .car-deals-price {padding: 15px 10px;}
+    .car-deals-price b {font-size: 14px;}
+    .car-deals-price::before {height: 57px;}
+    .car-deals-inner-btn {margin-top: 20px;}
+    .car-deals-inner-btn .custom-btn:last-child {margin-left: 5px;}
+    .car-deals-inner-btn .custom-btn {padding: 10px 35px;}
+    .car-deals-price p {font-size: 13px;}
+    .market-rate .market-currency {width: 46%;}
+    .market-rate span {width: 56%;}
+    .market-rate span {font-size: 11px;}
+    .market-rate .market-currency h6 {font-size: 13px;}
+    .car-deals-top-content ul li {font-size: 14px;padding-bottom: 12px;}
+    .car-deals-top-content ul {margin-top: 15px;}
+    .car-deals-inner-gallery .outer .owl-nav .owl-prev i {font-size: 35px;}
+    .car-deals-inner-gallery .outer .owl-nav .owl-next i {font-size: 35px;}
+    .car-deals-inner-gallery .outer .owl-nav .owl-prev {top: 46%;left: 12px;}
+    .car-deals-inner-gallery .outer .owl-nav .owl-next {top: 46%;right: 12px;}
+
+
+    
+}
+
+@media only screen and (max-width: 480.98px) {	
+    
+}
+
